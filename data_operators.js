@@ -31,3 +31,10 @@ console.log(ageSarah >= 18);
 const isFullAge = ageSarah >= 18;
 
 console.log(now - 1991 > now - 2018);
+
+let c, y;
+c = y = 25 - 10 - 5;
+console.log(c, y);
+
+const averageAge = (ageJonas + ageSarah) / 2; // first (agejonas + ageSaraf) then devided with 2 and the answer is 32.5 because group is has the highest operator 
+console.log(ageJonas, ageSarah, averageAge)
