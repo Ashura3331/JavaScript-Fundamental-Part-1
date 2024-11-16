@@ -4,4 +4,6 @@ const job = 'Programmer';
 const birthYear = 1999;
 const year = 3000;
 
-const ash = "I'm " + firstName + ', a ' + (year - birthYear) + 'years old ' + job + '!';
+const ash = "I'm " + firstName + ', a ' + (year - birthYear) + ' years old ' + job + '!';
+
+console.log(ash);
