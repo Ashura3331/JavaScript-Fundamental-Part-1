@@ -38,3 +38,4 @@ console.log(c, y);
 
 const averageAge = (ageJonas + ageSarah) / 2; // first (agejonas + ageSaraf) then devided with 2 and the answer is 32.5 because group is has the highest operator 
 console.log(ageJonas, ageSarah, averageAge)
+
