@@ -32,6 +32,7 @@ const isFullAge = ageSarah >= 18;
 
 console.log(now - 1991 > now - 2018);
 
+
 let c, y;
 c = y = 25 - 10 - 5;
 console.log(c, y);
