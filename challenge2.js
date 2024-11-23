@@ -12,3 +12,8 @@ console.log(BMIJohn, BMIMark); // (output of John and Mark)
 
 // Challenge 2 code start
 
+if (BMIJohn > BMIMark) {
+    console.log(`"John's BMI ${BMIJohn} is higher than Mark's ${BMIMark}!"`);
+}else {
+    console.log(`"Mark's BMI ${BMIMark} is higher than John's ${BMIJohn} "`);
+}
