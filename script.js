@@ -16,4 +16,4 @@ console.log( job1, job2); // Bad one
 
 const inputYear = '1991';
 console.log(Number(inputYear));
-console.log(inputYear + 18);
+console.log(Number(inputYear) + 18);
