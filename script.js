@@ -13,3 +13,7 @@ let job2 = 'teacher'; // Bad one
 
 console.log(myFirstJob, myCurrentJob); // Good one
 console.log( job1, job2); // Bad one
+
+const inputYear = '1991';
+console.log(Number(inputYear));
+console.log(inputYear + 18);
