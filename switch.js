@@ -1,5 +1,5 @@
 
-const day = 'tuesday';
+const day = 'wednesday' + 'thursday';
 
 switch(day) {
     case 'monday':
@@ -22,4 +22,8 @@ switch(day) {
         break;
     default:
         console.log("Not a valid day");
+}
+
+if (day === 'wednesday' || 'thursday') {
+    console.log("Write code example");
 }
